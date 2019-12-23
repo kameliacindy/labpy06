@@ -13,6 +13,11 @@ Membuat package dan modul berdasarkan tugas praktikum sebelumnya dengan struktur
  - **input_nilai.py** berisi modul untuk : input_data yang meminta pengguna memasukkan data
  - **main.py** berisi program utama (menu pilihan yang memanggil semua menu yang ada).
  
+ 
+ 
+ 
+ 
+ 
 
 
 Nama  : Kamelia Cindy Astuti
